@@ -59,6 +59,7 @@ This repository is a curated collection of resources I've found helpful in my jo
         *   [Nuxt.js Resources](Link Here)
     *   [UI Libraries](Link Here)
         *   [Vuetify Resources](Link Here)
+        *   [Example bpmn](https://github.com/bpmn-io/bpmn-js-example-custom-shapes)
 
 ## Backend Development
 
