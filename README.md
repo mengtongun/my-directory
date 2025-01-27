@@ -68,7 +68,7 @@ This repository is a curated collection of resources I've found helpful in my jo
     *   [Frameworks](Link Here)
         *   [Express.js Resources](Link Here)
         *   [Nest.js Resources](Link Here)
-           *    [Nest TypeORM Pagination](https://github.com/ppetzold/nestjs-paginate)
+              *   [Nest TypeORM Pagination](https://github.com/ppetzold/nestjs-paginate)
 
 ### Python
 
