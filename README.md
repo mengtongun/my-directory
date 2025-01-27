@@ -75,6 +75,7 @@ This repository is a curated collection of resources I've found helpful in my jo
 ### Python
 
 *   [Python Resources](Link Here)
+      *   [Outline AI](https://github.com/dottxt-ai/outlines)   
 
 ### Go
 
